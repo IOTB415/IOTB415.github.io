@@ -1,0 +1,23 @@
+{
+  "count": 1,
+  "data": [{
+    "name": "行人重识别",
+    "id": "reid",
+    "imgurl": "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    "description": "跨过多个摄像头找到你",
+    "url": "http://www.gistime.cn"
+  }, {
+    "name": "行为识别",
+    "id": "B",
+    "imgurl": "http://img3.imgtn.bdimg.com/it/u=2644250761,3672200364&fm=26&gp=0.jpg",
+    "description": "AAAAAAAAA",
+    "url": "http://www.gistime.cn"
+  }, {
+    "name": "目标跟踪",
+    "id": "A",
+    "imgurl": "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    "description": "AAAAAAAAA",
+    "url": "http://www.gistime.cn"
+  }]
+
+}
